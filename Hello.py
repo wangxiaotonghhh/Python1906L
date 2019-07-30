@@ -1,10 +1,5 @@
-ds
-d
-sd
-s
-ds
-d
-s
-ds
-s
+print('Hello')
 
+
+
+print('你真是一个小天才')
